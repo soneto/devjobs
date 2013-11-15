@@ -1,0 +1,13 @@
+{
+    "name": "soneto\/devjobs",
+    "description": "Plataform to list job offers for devs",
+    "type": "library",
+    "license": "BSD Style",
+    "homepage": "https://github.com/soneto/devjobs",
+    "authors": [
+        {
+            "name": "Marcelo Santos",
+            "email": "marcelsud@gmail.com"
+        }
+    ]
+}
