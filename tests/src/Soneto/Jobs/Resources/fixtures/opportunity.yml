@@ -1,0 +1,3 @@
+Soneto\Jobs\Entities\Opportunity:
+    opportunity{1..10}:
+        title: <text(70)>
